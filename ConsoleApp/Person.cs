@@ -1,5 +1,4 @@
-namespace L01
-{
+namespace L01;
     internal class Person
     {
         public Person(string fornavn)
@@ -7,17 +6,7 @@ namespace L01
             this.fornavn = fornavn;
         }
 
-        private string fornavn
-        {
-            get
-            {
-                return Fornavn;
-            }
-            set
-            {
-                Fornavn = value;
-            }
-        }
+        private string fornavn;
         public string Fornavn
         {
             get
@@ -29,7 +18,11 @@ namespace L01
                 fornavn = value;
             }
         }
+
+        public override string ToString()
+        {
+            return "Name is: " + this.fornavn;
+        }
     }
-    
-}
+
 
