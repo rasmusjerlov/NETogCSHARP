@@ -8,10 +8,17 @@ Person person = new Person("Rasmus");
 Console.WriteLine(person.Fornavn);
 
 MyList myList = new MyList();
-myList.addNumber(3);
-myList.addNumber(1);
-myList.addNumber(13);
-myList.addNumber(7);
+// myList.addNumber(3);
+// myList.addNumber(1);
+// myList.addNumber(13);
+// myList.addNumber(7);
+
+Random rnd = new Random();
+
+for (int i = 0; i < 10; i++)
+{
+    myList.addNumber(rnd.Next(101));
+}
 
 myList.printList();
 
