@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Exercise3_1_5
 {
-    internal class MedarbejderListe<TKey>
+    internal class MedarbejderListe<TKey> where TKey : notnull
     {
         private Dictionary<TKey, Medarbejder> medarbejdere = new Dictionary<TKey, Medarbejder> ();
 

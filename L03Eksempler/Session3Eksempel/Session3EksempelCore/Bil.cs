@@ -8,6 +8,10 @@ namespace Session3Eksempel
 {
     internal class Bil:Koeretoej, IHarAlder
     {
+        public Bil(): this("Hvid", 0, 0)
+        {
+            
+        }
         public Bil(string farve, double vaegt, int alder):base(farve, vaegt)
         {
             Alder = alder;

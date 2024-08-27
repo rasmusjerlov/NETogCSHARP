@@ -17,7 +17,7 @@ namespace Exercise3_1_5
         public string BirthDate { get; set; }
         public String SequenceNumber { get; set; }
 
-        public override bool Equals(object obj)
+        public override bool Equals(object? obj)
         {
             if (!(obj is CprNr))
             {
