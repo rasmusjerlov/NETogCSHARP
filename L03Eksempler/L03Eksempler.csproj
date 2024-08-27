@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Content Include="Session3Eksempel\.vs\ProjectEvaluation\session3eksempel.metadata.v7.bin" />
+      <Content Include="Session3Eksempel\.vs\ProjectEvaluation\session3eksempel.projects.v7.bin" />
+      <Content Include="Session3Eksempel\.vs\Session3Eksempel\DesignTimeBuild\.dtbcache.v2" />
+      <Content Include="Session3Eksempel\.vs\Session3Eksempel\FileContentIndex\14d3c32b-4d9d-4292-a629-09f9d112393f.vsidx" />
+      <Content Include="Session3Eksempel\.vs\Session3Eksempel\FileContentIndex\328d5d3b-76a9-46ba-b0bd-9d79c3f0775a.vsidx" />
+      <Content Include="Session3Eksempel\.vs\Session3Eksempel\FileContentIndex\d4279ef1-68c1-4af2-891b-9577fff96836.vsidx" />
+      <Content Include="Session3Eksempel\.vs\Session3Eksempel\project-colors.json" />
+      <Content Include="Session3Eksempel\.vs\Session3Eksempel\v17\.futdcache.v2" />
+      <Content Include="Session3Eksempel\.vs\Session3Eksempel\v17\.suo" />
+      <Content Include="Session3Eksempel\.vs\Session3Eksempel\v17\DocumentLayout.json" />
+      <Content Include="Session3Eksempel\Session3Eksempel.sln" />
+    </ItemGroup>
+
+</Project>

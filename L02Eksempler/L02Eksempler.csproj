@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Content Include="Session2Eksempel\.vs\ProjectEvaluation\session2eksempel.metadata.v7.bin" />
+      <Content Include="Session2Eksempel\.vs\ProjectEvaluation\session2eksempel.projects.v7.bin" />
+      <Content Include="Session2Eksempel\.vs\Session2Eksempel\DesignTimeBuild\.dtbcache.v2" />
+      <Content Include="Session2Eksempel\.vs\Session2Eksempel\FileContentIndex\10c37bcd-eb61-4b70-b909-558c01a01d9d.vsidx" />
+      <Content Include="Session2Eksempel\.vs\Session2Eksempel\FileContentIndex\5b41a6b1-bc66-4f82-8594-f828a4ab158f.vsidx" />
+      <Content Include="Session2Eksempel\.vs\Session2Eksempel\FileContentIndex\86fd0a68-24f8-4ff7-a442-c82491e362a9.vsidx" />
+      <Content Include="Session2Eksempel\.vs\Session2Eksempel\FileContentIndex\read.lock" />
+      <Content Include="Session2Eksempel\.vs\Session2Eksempel\project-colors.json" />
+      <Content Include="Session2Eksempel\.vs\Session2Eksempel\v17\.futdcache.v1" />
+      <Content Include="Session2Eksempel\.vs\Session2Eksempel\v17\.futdcache.v2" />
+      <Content Include="Session2Eksempel\.vs\Session2Eksempel\v17\.suo" />
+      <Content Include="Session2Eksempel\Session2Eksempel.sln" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Session2Eksempel\.vs\Session2Eksempel\FileContentIndex\merges\" />
+    </ItemGroup>
+
+</Project>
