@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Loesninger session 4\\Exercises_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55B5D3FB-7DE6-4CE3-9B72-86FDC35F9A22}|Exercise4.1.a\\Exercise4.1.a.csproj|c:\\users\\klbo\\onedrive - efif\\dotnet\\e24\\session 4\\loesninger session 4\\exercises_4\\exercise4.1.a\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55B5D3FB-7DE6-4CE3-9B72-86FDC35F9A22}|Exercise4.1.a\\Exercise4.1.a.csproj|solutionrelative:exercise4.1.a\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3948C8A-4B85-4859-8AEF-652F0D8FCF40}|Exercise4_2\\Exercise4_2.csproj|c:\\users\\klbo\\onedrive - efif\\dotnet\\e24\\session 4\\loesninger session 4\\exercises_4\\exercise4_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3948C8A-4B85-4859-8AEF-652F0D8FCF40}|Exercise4_2\\Exercise4_2.csproj|solutionrelative:exercise4_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Starter.cs",
+              "DocumentMoniker": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Loesninger session 4\\Exercises_4\\Exercise4.1.a\\Starter.cs",
+              "RelativeDocumentMoniker": "Exercise4.1.a\\Starter.cs",
+              "ToolTip": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Loesninger session 4\\Exercises_4\\Exercise4.1.a\\Starter.cs",
+              "RelativeToolTip": "Exercise4.1.a\\Starter.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:07:38.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Loesninger session 4\\Exercises_4\\Exercise4_2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise4_2\\Program.cs",
+              "ToolTip": "C:\\Users\\klbo\\OneDrive - EFIF\\DotNet\\E24\\Session 4\\Loesninger session 4\\Exercises_4\\Exercise4_2\\Program.cs",
+              "RelativeToolTip": "Exercise4_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:13:07.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
