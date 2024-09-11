@@ -1,0 +1,14 @@
+@using WebApplication1.Models
+
+@{
+    ViewData["Title"] = "RockbandsView";
+}
+
+<h1>My Favorite Rockbands</h1>
+<ul>
+    @foreach (var band in Model)
+    {
+        <li>@band.Name</li>
+    }
+</ul>
+
