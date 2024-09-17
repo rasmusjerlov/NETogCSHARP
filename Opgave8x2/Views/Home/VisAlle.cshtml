@@ -1,0 +1,14 @@
+@using Opgave8x2.Models
+@{
+    ViewData["Title"] = "VisAlle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Alle personer</h1>
+<ul>
+    @foreach (var person in Model)
+    {
+        <li>Navn: @person.Name, Alder: @person.Age</li>
+    }
+</ul>
+
