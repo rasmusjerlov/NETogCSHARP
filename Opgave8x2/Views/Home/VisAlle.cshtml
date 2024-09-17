@@ -6,9 +6,10 @@
 
 <h1>Alle personer</h1>
 <ul>
-    @foreach (var person in Model)
+    @foreach (Person person in Model)
     {
         <li>Navn: @person.Name, Alder: @person.Age</li>
+        <li>@Html.PartialAsync("_PersonPartial", person)</li>
     }
 </ul>
 
